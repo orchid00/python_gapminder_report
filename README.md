@@ -2,7 +2,18 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/orchid00/python_gapminder_report/master?filepath=scripts%2F01_GapminderReport.ipynb)
 
-This report is writen in Python and it is shared using mybinder.org
+This report is writen in Python3 and the report is in the scripts folder of this repo the file name is 01_GapminderReport.ipynb.
+This script uses a dataset located in the data folder called `gapminder_all.csv`.
+If you are running this in your local computer please see `requirements.txt` you need to have previously installed pandas and matplotlib.
+
+You can also check the Python version by adding these two lines to the code
+
+    from platform import python_version
+    print(python_version)
+
+In my case it prints `3.6.6`
+
+A version of this code can be rendered from mybinder.org via
 https://mybinder.org/v2/gh/orchid00/python_gapminder_report/master?filepath=scripts%2F01_GapminderReport.ipynb
 
 
