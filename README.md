@@ -1,6 +1,7 @@
 # Python Gapminder report
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/orchid00/python_gapminder_report/master?filepath=scripts%2F01_GapminderReport.ipynb)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/orchid00/python_gapminder_report/master?filepath=scripts%2F01_GapminderReport.ipynb)     
+
 
 The report is in the `scripts` folder of this repo, the file name is `01_GapminderReport.ipynb`. The Python version used is 3.6.3. 
 This script uses a dataset located in the `data` folder called `gapminder_all.csv`.
