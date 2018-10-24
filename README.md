@@ -9,7 +9,7 @@ If you are running this in your local computer please see `requirements.txt` you
 You can also check the Python version by adding these two lines to the code
 
     from platform import python_version
-    print(python_version)
+    print(python_version())
 
 In my case it prints `3.6.6`
 
@@ -17,7 +17,7 @@ A version of this code can be rendered from mybinder.org via
 https://mybinder.org/v2/gh/orchid00/python_gapminder_report/master?filepath=scripts%2F01_GapminderReport.ipynb
 
 
-Cite this code:
+### Cite this code:
 
 This code uses a [MIT license](LICENSE) which is "A permissive license that is short and to the point. It lets people do anything with the code with proper attribution and without warranty"
 
